@@ -9,7 +9,7 @@
 ## Installation
 
 ```bash
-npm install --save vue-rangedate-picker
+npm install https://github.com/Gottenborg/vue-rangedate-picker/tarball/master
 ```
 
 ## Usage
